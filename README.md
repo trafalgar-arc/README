@@ -1,4 +1,4 @@
 # README
-hey,it's me (you can call me cyrus)
-.im a men from iran
+hey, it's me (you can call me Cyrus)
+.im a man from Iran
 .im interested in coding and playing computer games.
